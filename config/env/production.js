@@ -251,8 +251,8 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
      onlyAllowOrigins: [
-       'http://voleyball.herokuapp.com/',
-       'http://voleyballdev.herokuapp.com/',
+       'http://voleyball.herokuapp.com',
+       'http://voleyballdev.herokuapp.com',
      ],
 
 
