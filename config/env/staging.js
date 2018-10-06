@@ -92,6 +92,10 @@ module.exports = Object.assign({}, PRODUCTION_CONFIG, {
     // ||  (or use system environment variables prefixed with "sails_custom__")
     //--------------------------------------------------------------------------
 
-  })
+  }),
+
+   log: {
+    level: 'debug'
+  },
 
 });
