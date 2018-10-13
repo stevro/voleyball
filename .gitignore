@@ -63,3 +63,5 @@ typings/
 voleyball.sublime-project
 voleyball.sublime-workspace
 .tmp
+
+config/local.js
